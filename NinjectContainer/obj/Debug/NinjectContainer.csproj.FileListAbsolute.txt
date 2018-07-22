@@ -1,0 +1,8 @@
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\bin\Debug\NinjectContainer.exe.config
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\bin\Debug\NinjectContainer.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\bin\Debug\NinjectContainer.pdb
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\bin\Debug\Ninject.dll
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\bin\Debug\Ninject.xml
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\obj\Debug\NinjectContainer.csprojResolveAssemblyReference.cache
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\obj\Debug\NinjectContainer.exe
+C:\Users\pareeka2\Documents\Visual Studio 2015\Projects\WCFLearning\NinjectContainer\NinjectContainer\obj\Debug\NinjectContainer.pdb
